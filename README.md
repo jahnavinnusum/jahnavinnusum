@@ -68,12 +68,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jahnavinnusum&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnavinnusum&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnavinnusum&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -81,7 +81,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jahnavinnusum&theme=onedark"/>
 </p>
 
 ---
@@ -89,7 +89,7 @@
 ## 👀 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=jahnavinnusum&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
